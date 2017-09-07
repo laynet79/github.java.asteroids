@@ -9,7 +9,7 @@ import java.awt.*;
 
 /**
  *
- * @author layne
+ * @author layne Thorup
  */
 public class Ship extends Poly {
 
